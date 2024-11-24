@@ -2,7 +2,7 @@
 
 ## My name is Jorge Santos and you just landed on my profile 🥷
 
-#### 🗺️ Currently battling with maps & web apps<br>🤝 Looking to contribute on open source projects<br>📚 Always curious about PHP+Laravel, Node, Vue, Vuetify and Docker. Trying out Go for some experiments.<br><br><br> 
+#### 🤝 Looking to contribute on open source projects<br>📚 Always curious about PHP+Laravel, Node, Vue, Vuetify and Docker. Trying out Go for some experiments.<br><br><br> 
 
 
 ## 🌐 Socials:
